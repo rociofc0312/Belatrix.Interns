@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Repository.SqlServ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.WebApi", "Belatrix.WebApi\Belatrix.WebApi.csproj", "{D3A60B65-9627-4277-8D4B-4F7071A9CA9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix.Models", "Belatrix.Models\Belatrix.Models.csproj", "{9F8259D8-9BA2-48B8-A98D-85E317A1EFE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D3A60B65-9627-4277-8D4B-4F7071A9CA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A60B65-9627-4277-8D4B-4F7071A9CA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A60B65-9627-4277-8D4B-4F7071A9CA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8259D8-9BA2-48B8-A98D-85E317A1EFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8259D8-9BA2-48B8-A98D-85E317A1EFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8259D8-9BA2-48B8-A98D-85E317A1EFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8259D8-9BA2-48B8-A98D-85E317A1EFE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

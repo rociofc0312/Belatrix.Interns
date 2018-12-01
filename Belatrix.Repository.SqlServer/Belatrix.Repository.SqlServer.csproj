@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Belatrix.Repository\Belatrix.Repository.csproj" />
+    <ProjectReference Include="..\Belatrix.Models\Belatrix.Models.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="Class1.cs" />
